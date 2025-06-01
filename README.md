@@ -35,5 +35,4 @@ This project is licensed under the **MIT License** — see the LICENSE file for 
 Created by **Shaza Rizvi** — feel free to reach out!
 
 * Email: rizvishaza@gmail.com
-* LinkedIn: Shaza Rizvi
-
+* LinkedIn: Shaza Rizvi ( https://www.linkedin.com/in/shaza-rizvi-692833254/ )
